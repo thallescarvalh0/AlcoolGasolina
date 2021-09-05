@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlcoolGasolina</string>
+    <string name="melhor_opcao">Saiba a melhor opção para abastecimento do seu carro</string>
+    <string name="hint_valor_do_alcool">Valor do alcool</string>
+    <string name="hoint_valor_da_gasolina">Valor do gasolina</string>
+    <string name="calcular">Calcular</string>
+</resources>
